@@ -31,6 +31,22 @@ header h1 {
   margin-top: 0.5rem;
 }
 
+nav {
+  margin-top: 1rem;
+}
+
+nav a {
+  margin: 0 0.75rem;
+  text-decoration: none;
+  color: #FF6F61;
+  font-weight: 600;
+  transition: color 0.3s;
+}
+
+nav a:hover {
+  color: #e85a4f;
+}
+
 .hero {
   background-color: #FFFBF5;
   padding: 4rem 2rem;
